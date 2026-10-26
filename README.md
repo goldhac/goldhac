@@ -1,65 +1,25 @@
-<h1 align="center">Hi, I'm Gold Nwobu 👋</h1>
+# Gold Nwobu
 
-<p align="center">
-  I build <b>vision-driven automation</b>, <b>scrapers &amp; data pipelines</b>, and <b>practical tools</b><br/>
-  that turn messy real-world problems into software that just works.
-</p>
+AI and full-stack engineer. M.S. Computer Science candidate at UT Dallas (May 2027), building production LLM systems and the apps around them.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goldhac&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="mailto:gold.nwobu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
+## Products in production
 
----
+Platter, a multi-tenant digital menu platform isolated by Postgres row-level security, with an AI menu import from a photo: https://platter.goldhac.com
 
-### 🧠 What I'm into
+Clutch, an AI exam reference sheet engine that returns one-page sheets with a citation on every line. More than 50 users and over 200 sheets generated: https://cramsheet-production.up.railway.app
 
-- 🤖 **Automation & agents** — vision-based UI control over ADB, pluggable LLM judges, self-recovering bots
-- 🕸️ **Scraping & data pipelines** — getting clean data out of stubborn sources
-- 🧰 **Tools that save real time & money** — like ranking electricity plans by what you'll *actually* pay
-- 📱 **Apps** — Flutter on mobile, TypeScript on the web
+GroupPad, a group decision platform where an AI agent (Scout) compares rentals and returns a structured recommendation: https://grouppad.goldhac.com
 
-> *"i am learning"* — and shipping while I do it.
+## Research
 
----
+Co-author, Benchmarking State Space Models vs Transformers on Long-Context Sessions (arXiv:2601.01237). https://arxiv.org/abs/2601.01237
 
-### 🛠️ Tech I build with
+## Now
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Graduate Teaching Assistant for computer science courses at UT Dallas. Looking for full-time software and AI engineering roles, starting after May 2027.
 
----
+## Get in touch
 
-### 🚀 Featured projects
-
-| Project | What it does |
-|---|---|
-| 🤖 [**hinge-auto**](https://github.com/goldhac/hinge-auto) | Vision-based Android automation over ADB — pluggable LLM backends (Anthropic / Gemini / Ollama), voice & persona modes, and a hardened self-recovery loop |
-| ⚡ [**texas-power-finder**](https://github.com/goldhac/texas-power-finder) | Ranks Texas electricity plans by your *real* annual cost and flags bill-credit "traps" — pure-stdlib Python + CLI |
-| 📚 [**academic-book-downloader**](https://github.com/goldhac/academic-book-downloader) | Pulls academic books from Anna's Archive, Internet Archive, OpenAlex & Open Library with bot-protection bypass |
-| 📈 [**fsma-stori-pipeline**](https://github.com/goldhac/fsma-stori-pipeline) | Python pipeline that scrapes & downloads financial reports from the FSMA STORI database |
-| 🏠 [**grouppad**](https://github.com/goldhac/grouppad) | Group-trip rental shortlister with voting, a split calculator & community submissions |
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=goldhac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="goldhac's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldhac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldhac&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-<p align="center"><i>Always building something. Open to collabs — say hi 👋</i></p>
+LinkedIn: https://www.linkedin.com/in/goldnwobu
+Portfolio: https://gold-portfolio-xi.vercel.app
+Email: gold.nwobu@gmail.com
